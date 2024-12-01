@@ -4,10 +4,9 @@ Die Hardware basiert auf dem Lichtcomputer von [Tams](https://tams-online.de/epa
 und wurde für meine Anforderungen ergänzt.
 
 Eine Veröffentlich der Hardware erfolgt hier nicht:
-_Alle Rechte, insbesondere das Recht der Vervielfältigung und
-Verbreitung sowie der Übersetzung vorbehalten. Vervielfältigungen und
-Reproduktionen in jeglicher Form bedürfen der schriftlichen
-Genehmigung durch die Tams Elektronik GmbH.
-Technische Änderungen vorbehalten.
-(aus der Tams-Dokumentation zum LC)_
- 
+_Alle Rechte, insbesondere das Recht der Vervielfältigung und<br>
+Verbreitung sowie der Übersetzung vorbehalten. Vervielfältigungen und<br>
+Reproduktionen in jeglicher Form bedürfen der schriftlichen<br>
+Genehmigung durch die Tams Elektronik GmbH.<br>
+Technische Änderungen vorbehalten.<br>
+(aus der Tams-Dokumentation zum LC)_ 
