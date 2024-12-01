@@ -8,6 +8,8 @@ Nachfolgende Softwarepakete stehen unter [Software](https://github.com/Kruemelba
 
 - [Belebtes_Haus_mit_TV_Attiny](https://github.com/Kruemelbahn/lightControl/tree/main/Software/Belebtes_Haus_mit_TV_Attiny) simuliert ein belebtes Haus, es werden einige LEDs zufällig eine- und ausgeschaltet (Zimmerbeleuchtung), ein weiterer Ausgang simuliert einen flimmernden Fernsehgerät.
 - [Blinken](https://github.com/Kruemelbahn/lightControl/tree/main/Software/Blinken) läßt den Ausgang PB0 blinken
+- [Blinken_5fach](https://github.com/Kruemelbahn/lightControl/tree/main/Software/Blinken_5fach) läßt alle Ausgänge blinken
 - [Blitz_Blinker](https://github.com/Kruemelbahn/lightControl/tree/main/Software/Blitz_Blinker) ist die Implementierung des [FotoMichel](https://github.com/Kruemelbahn/FotoMichel) auf AVR-Basis anstelle eines PIC.
   Die Hardware ist gegenüber dem originalen FotoMichel einfacher gehalten und hat nur einen Triggereingang für die Blitzlichter.
+- [Einsatzfahrzeuge](https://github.com/Kruemelbahn/lightControl/tree/main/Software/Einsatzfahrzeuge) generiert zwei verschiedene Blinkfolgen für Einsatzfahrzeuge
 - [Lauflicht](https://github.com/Kruemelbahn/lightControl/tree/main/Software/Lauflicht) ist die Implementierung eines Lauflichts über die Ausgänge PB0...PB4
