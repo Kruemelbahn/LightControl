@@ -8,6 +8,6 @@ _Alle Rechte, insbesondere das Recht der Vervielfältigung und
 Verbreitung sowie der Übersetzung vorbehalten. Vervielfältigungen und
 Reproduktionen in jeglicher Form bedürfen der schriftlichen
 Genehmigung durch die Tams Elektronik GmbH.
-Technische Änderungen vorbehalten.<br>
+Technische Änderungen vorbehalten.<br> 
 (aus der Tams-Dokumentation zum LC)_
  
