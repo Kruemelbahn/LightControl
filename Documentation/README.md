@@ -1,3 +1,3 @@
 ﻿# Documentation
 
-Die Dokumentation wurde für meine Anforderungen neu erstellt.
+Die Dokumentation wurde passend für die neue Platine erstellt.
