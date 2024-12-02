@@ -2,8 +2,6 @@
 
 ...ist eine kleine Sammlung von Lichtsteuerungen (mit analoger Ansteuerung) auf meiner Modellbahn:
 
-Unterlagen zur universell einsetzbare Hardware mit der zugehörigen Dokumentation ist nur auf Anfrage erhältlich.
-
 Nachfolgende Softwarepakete stehen unter [Software](https://github.com/Kruemelbahn/lightControl/tree/main/Software) zur Verfügung
 - auf Arduino-Basis:
   - [Blinken_5fach](https://github.com/Kruemelbahn/lightControl/tree/main/Software/Blinken_5fach) läßt alle Ausgänge blinken
