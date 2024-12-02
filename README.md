@@ -1,6 +1,6 @@
 ﻿# LightControl
 
-...ist eine kleine Sammlung von Lichtsteuerungen (mit analoger Ansteuerung) auf meiner Modellbahn:
+...ist eine kleine Sammlung von Lichtsteuerungen (mit analoger Ansteuerung) auf meiner Modellbahn.
 
 Nachfolgende Softwarepakete stehen unter [Software](https://github.com/Kruemelbahn/lightControl/tree/main/Software) zur Verfügung
 - auf Arduino-Basis:
