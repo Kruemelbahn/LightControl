@@ -14,7 +14,7 @@ Nachfolgende Softwarepakete stehen unter [Software](https://github.com/Kruemelba
   - [LaufLicht_ATiny13](https://github.com/Kruemelbahn/LightControl/tree/main/Software/LaufLicht_ATiny13) ist die Implementierung eines Lauflichts über die Ausgänge PB0...PB4
 
 Der Quellcode wird nur benötigt, wenn
-- nan neugierig ist
+- man neugierig ist
 - oder den Quellcode ändern und somit neu kompilieren möchte.
 Zum Kompilieren wird ein AVR-Compiler (z.B. das ATMEL-Studio bzw. die Arduino-IDE) benötigt.
 
