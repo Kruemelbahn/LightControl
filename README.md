@@ -13,4 +13,10 @@ Nachfolgende Softwarepakete stehen unter [Software](https://github.com/Kruemelba
     Die Hardware ist gegenüber dem originalen FotoMichel einfacher gehalten und hat nur einen Triggereingang für die Blitzlichter.
   - [LaufLicht_ATiny13](https://github.com/Kruemelbahn/LightControl/tree/main/Software/LaufLicht_ATiny13) ist die Implementierung eines Lauflichts über die Ausgänge PB0...PB4
 
+Der Quellcode wird nur benötigt, wenn
+- nan neugierig ist
+- oder den Quellcode ändern und somit neu kompilieren möchte.
+Zum Kompilieren wird ein AVR-Compiler (z.B. das ATMEL-Studio bzw. die Arduino-IDE) benötigt.
+
+Ansonsten reichen die Hex-Dateien völlig aus, diese werden in den ATtiny13 geflasht.
 Die Software auf dem ATtiny13 läuft mit den Default-Fuses: low=0x6A high=0xFF
