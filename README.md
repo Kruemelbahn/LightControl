@@ -3,8 +3,7 @@
 ...ist eine kleine Sammlung von Lichtsteuerungen (mit analoger Ansteuerung) auf meiner Modellbahn.
 
 Nachfolgende Softwarepakete stehen unter [Software](https://github.com/Kruemelbahn/lightControl/tree/main/Software) zur Verfügung
-- auf Arduino-Basis, kompiliert für ATtiny13:
-  (für die Arduino-IDO wird das Board [MicroCore](https://github.com/MCUdude/MicroCore) verwendet)
+- auf Arduino-Basis, kompiliert für ATtiny13 (für die Arduino-IDE wird das Board [MicroCore](https://github.com/MCUdude/MicroCore) verwendet):
   - [Blinken_5fach](https://github.com/Kruemelbahn/lightControl/tree/main/Software/Blinken_5fach) läßt alle Ausgänge blinken
   - [Einsatzfahrzeuge](https://github.com/Kruemelbahn/lightControl/tree/main/Software/Einsatzfahrzeuge) generiert zwei verschiedene Blinkfolgen für Einsatzfahrzeuge
 - auf ATtiny13-Basis:
@@ -13,4 +12,5 @@ Nachfolgende Softwarepakete stehen unter [Software](https://github.com/Kruemelba
   - [Blitz_Blinker](https://github.com/Kruemelbahn/lightControl/tree/main/Software/Blitz_Blinker) ist die Implementierung des [FotoMichel](https://github.com/Kruemelbahn/FotoMichel) auf AVR-Basis anstelle eines PIC.
     Die Hardware ist gegenüber dem originalen FotoMichel einfacher gehalten und hat nur einen Triggereingang für die Blitzlichter.
   - [LaufLicht_ATiny13](https://github.com/Kruemelbahn/LightControl/tree/main/Software/LaufLicht_ATiny13) ist die Implementierung eines Lauflichts über die Ausgänge PB0...PB4
+
 Die Software auf dem ATtiny13 läuft mit den Default-Fuses: low=0x6A high=0xFF
