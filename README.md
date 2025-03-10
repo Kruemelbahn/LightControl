@@ -20,3 +20,6 @@ Zum Kompilieren wird ein AVR-Compiler (z.B. das ATMEL-Studio bzw. die Arduino-ID
 
 Ansonsten reichen die Hex-Dateien völlig aus, diese werden in den ATtiny13 geflasht.
 Die Software auf dem ATtiny13 läuft mit den Default-Fuses: low=0x6A high=0xFF
+
+![Lichtcomputer mit PIC](/Images/Lichtcomputer(PIC).png)
+![Lichtcomputer mit ATTiny](/Images/Lichtcomputer(ATMEL).png)
