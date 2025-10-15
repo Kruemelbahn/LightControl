@@ -11,7 +11,10 @@ Nachfolgende Softwarepakete stehen unter [Software](https://github.com/Kruemelba
   - [Blinken](https://github.com/Kruemelbahn/lightControl/tree/main/Software/Blinken) läßt den Ausgang PB0 blinken
   - [Blitz_Blinker](https://github.com/Kruemelbahn/lightControl/tree/main/Software/Blitz_Blinker) ist die Implementierung des [FotoMichel](https://github.com/Kruemelbahn/FotoMichel) auf AVR-Basis anstelle eines PIC.
     Die Hardware ist gegenüber dem originalen FotoMichel einfacher gehalten und hat nur einen Triggereingang für die Blitzlichter.
+	Sowohl die Software für den [Blitz_Blinker](https://github.com/Kruemelbahn/lightControl/tree/main/Software/Blitz_Blinker) als auch des [FotoMichel](https://github.com/Kruemelbahn/FotoMichel) sind auf diesem Lichtcomputer mit geringen Hardwareanpassungen einsetzbar, siehe in der [Dokumentation](../Documentation/Lichtcomputer.pdf).
   - [LaufLicht_ATiny13](https://github.com/Kruemelbahn/LightControl/tree/main/Software/LaufLicht_ATiny13) ist die Implementierung eines Lauflichts über die Ausgänge PB0...PB4
+
+Einige im Repository [Signalling](https://github.com/Kruemelbahn/Signalling) befindliche Softwarepakete sind auch auf dem Lichtcomputer einsetzbar. Anwendung und Einschränkungen bzw. Änderungen sind in der [Dokumentation](https://github.com/Kruemelbahn/LightControl/blob/main/Documentation/Lichtcomputer.pdf) enthalten.
 
 Der Quellcode wird nur benötigt, wenn
 - man neugierig ist
@@ -23,3 +26,4 @@ Die Software auf dem ATtiny13 läuft mit den Default-Fuses: low=0x6A high=0xFF
 
 ![Lichtcomputer mit PIC](../Images/Lichtcomputer(PIC).png)
 ![Lichtcomputer mit ATTiny](../Images/Lichtcomputer(ATMEL).png)
+![Lichtcomputer (Unterseite)](../Images/Lichtcomputer(Unterseite).png)
